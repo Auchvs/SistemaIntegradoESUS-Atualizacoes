@@ -1,0 +1,15 @@
+# Protecoes contra envio acidental de arquivos internos
+*.pem
+*.key
+*.pfx
+*.p12
+*.env
+*.exe
+*.msi
+*.zip
+*.py
+*.pyc
+__pycache__/
+Output/
+build/
+dist/
