@@ -1,8 +1,8 @@
 {
   "product": "SISTEMA_INTEGRADO_ESUS_APS_V1",
-  "version": "1.1.2",
-  "installer_url": "https://github.com/Auchvs/SistemaIntegradoESUS-Atualizacoes/releases/download/v1.1.2/Instalador_Sistema_Integrado_eSUS_APS.exe",
-  "sha256": "bd4a25fa8c73cd5adc0a6532c9689bbfa59b4026b2014598f9c6f275d47f416e",
-  "release_notes": "Versao candidata 1.1.2 para validacao dos ajustes de consulta ACS e acompanhamento de visitas.",
-  "signature": "DKvOpXFS+r7+cOY2wLAZI771VJWx5Oaftexj38/uo2TbA5G1QatrjhS6oP1dLpzuaybnES3u/24dqEuN5+UpDQ=="
+  "version": "1.1.3",
+  "installer_url": "https://github.com/Auchvs/SistemaIntegradoESUS-Atualizacoes/releases/download/v1.1.3/Instalador_Sistema_Integrado_eSUS_APS.exe",
+  "sha256": "a09b306d13bc1b1dfaf084db25482c383784885658628e5ed843de30b6282ba9",
+  "release_notes": "Versao candidata 1.1.3 para corrigir o fluxo de abertura apos atualizacao; em validacao no Windows.",
+  "signature": "AFiiQzLpFL+VQNAK/twOnyxeZJTA9jXh7UhO2hLC9VtTwgvJYhjgQ5mYE3oGQ2hGFIskb5ZkRZj5na+AOH7MCQ=="
 }
