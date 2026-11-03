@@ -1,8 +1,8 @@
 {
   "product": "SISTEMA_INTEGRADO_ESUS_APS_V1",
-  "version": "1.1.5",
-  "installer_url": "https://github.com/Auchvs/SistemaIntegradoESUS-Atualizacoes/releases/download/v1.1.5/Instalador_Sistema_Integrado_eSUS_APS.exe",
-  "sha256": "66bee808bbc9f64071d28ccf08b80ca171c68e063730dae16f47bd4f0b6d8210",
-  "release_notes": "Versao candidata 1.1.5 para validacao. Inclui exportacao nominal detalhada no relatorio de exames solicitados e avaliados. Em pre-lancamento para validacao do atualizador e integridade.",
-  "signature": "/tew+xoYPYhwVxyUkv2easNS6p2cvfTxSgXGEPYp33O7bDQVjRphs9Nt8QN2css50d4qHsMPwjF2C81Qr7LACQ=="
+  "version": "1.2.0",
+  "installer_url": "https://github.com/Auchvs/SistemaIntegradoESUS-Atualizacoes/releases/download/v1.2.0/Instalador_Sistema_Integrado_eSUS_APS.exe",
+  "sha256": "940a86a17929b5c6d4f3ef01f150e0419bbcfbc3231b20c3af0c98c31c27845b",
+  "release_notes": "Otimiza a consulta de popula├º├úo por ACS e micro├írea, reduz buscas repetidas e atualiza a vers├úo do cache de popula├º├úo. Mant├®m os demais relat├│rios e crit├®rios.",
+  "signature": "XUOoL41bmyYqwvUZOCKsJPF1iQSftzM02D7+6wocvptDvvekI6eQQ1CyUJwlDul5RIS0/GGfw4LXgkEF7CokBA=="
 }
