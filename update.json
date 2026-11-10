@@ -1,8 +1,9 @@
 
+ {
   "product": "SISTEMA_INTEGRADO_ESUS_APS_V1",
   "version": "1.2.2",
   "installer_url": "https://github.com/Auchvs/SistemaIntegradoESUS-Atualizacoes/releases/download/v1.2.2/Instalador_Sistema_Integrado_eSUS_APS.exe",
   "sha256": "14357c1bf6a85695a8e1b05f6a420844234abd458f273b8f63507b8ce1b8d776",
-  "release_notes": "Melhora a consulta do relatÃ³rio geral do municÃ­pio selecionando fichas atuais em lote e mantendo filtros, critÃ©rios e apresentaÃ§Ã£o. A consulta Ã© somente leitura; limite de 10 minutos e memÃ³ria de trabalho local Ã  transaÃ§Ã£o.",
+  "release_notes": "Melhora a consulta do relatorio geral do municipio selecionando fichas atuais em lote e mantendo filtros, criterios e apresentaÃ§Ã£o. A consulta Ã© somente leitura; limite de 10 minutos e memÃ³ria de trabalho local Ã  transaÃ§Ã£o.",
   "signature": "3j3FxianmI6A49lcUJasLRYT2Z9ITawZvSfznLtqG8P5x31Q7d1gwELTnlzURAQTT6V0VgvEw0tklt7FIHCmAQ=="
 }
