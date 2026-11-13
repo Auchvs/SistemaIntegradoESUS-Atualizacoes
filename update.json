@@ -1,8 +1,8 @@
 {
   "product": "SISTEMA_INTEGRADO_ESUS_APS_V1",
-  "version": "1.2.2",
-  "installer_url": "https://github.com/Auchvs/SistemaIntegradoESUS-Atualizacoes/releases/download/v1.2.2/Instalador_Sistema_Integrado_eSUS_APS.exe",
-  "sha256": "14357c1bf6a85695a8e1b05f6a420844234abd458f273b8f63507b8ce1b8d776",
-  "release_notes": "Melhora a consulta do relatÃ³rio geral do municÃ­pio selecionando fichas atuais em lote e mantendo filtros, critÃ©rios e apresentaÃ§Ã£o. A consulta Ã© somente leitura; limite de 10 minutos e memÃ³ria de trabalho local Ã  transaÃ§Ã£o.",
-  "signature": "3j3FxianmI6A49lcUJasLRYT2Z9ITawZvSfznLtqG8P5x31Q7d1gwELTnlzURAQTT6V0VgvEw0tklt7FIHCmAQ=="
+  "version": "1.2.3",
+  "installer_url": "https://github.com/Auchvs/SistemaIntegradoESUS-Atualizacoes/releases/download/v1.2.3/Instalador_Sistema_Integrado_eSUS_APS.exe",
+  "sha256": "cc84ee3b2d16727f03fa4c3f6df0b3ce260febcb986bd7b88a4b4387bd848820",
+  "release_notes": "Corrige o relatorio nominal IVCF-20 e atualiza a lista nominal por idade e sexo para usar a populacao atual com cadastro individual ativo e idade calculada hoje. Os demais relatÃ³rios de atendimento permanecem inalterados. Consulta somente leitura.",
+  "signature": "Owzl9RcAm5C5i5Nox6lo8xb+GTBl20+977k+jVIJ1vyI0uc3SSmF1YDcBj1hj7ymZUlWgwwaZrGnRepstRKNAA=="
 }
