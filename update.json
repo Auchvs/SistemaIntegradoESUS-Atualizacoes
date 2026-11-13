@@ -3,6 +3,6 @@
   "version": "1.2.3",
   "installer_url": "https://github.com/Auchvs/SistemaIntegradoESUS-Atualizacoes/releases/download/v1.2.3/Instalador_Sistema_Integrado_eSUS_APS.exe",
   "sha256": "cc84ee3b2d16727f03fa4c3f6df0b3ce260febcb986bd7b88a4b4387bd848820",
-  "release_notes": "Corrige o relatorio nominal IVCF-20 e atualiza a lista nominal por idade e sexo para usar a populacao atual com cadastro individual ativo e idade calculada hoje. Os demais relatÃ³rios de atendimento permanecem inalterados. Consulta somente leitura.",
+  "release_notes": "Corrige o relatÃ³rio nominal IVCF-20 e atualiza a lista nominal por idade e sexo para usar a populaÃ§Ã£o atual com cadastro individual ativo e idade calculada hoje. Os demais relatÃ³rios de atendimento permanecem inalterados. Consulta somente leitura.",
   "signature": "Owzl9RcAm5C5i5Nox6lo8xb+GTBl20+977k+jVIJ1vyI0uc3SSmF1YDcBj1hj7ymZUlWgwwaZrGnRepstRKNAA=="
 }
