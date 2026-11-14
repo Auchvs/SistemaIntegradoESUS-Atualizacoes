@@ -3,6 +3,6 @@
   "version": "1.2.5",
   "installer_url": "https://github.com/Auchvs/SistemaIntegradoESUS-Atualizacoes/releases/download/v1.2.5/Instalador_Sistema_Integrado_eSUS_APS.exe",
   "sha256": "3e28481fef50323396d41f901d5b4b5d99f0f54fa475756d1eca09f601bd737f",
-  "release_notes": "Carrega todos os ACS ativos de uma vez e salva as populaçao no cache protegido do Windows por até 8 horas, mantendo a busca individual. As consultas ao PEC permanecem somente leitura.",
+  "release_notes": "Carrega todos os ACS ativos de uma vez e salva as populaÃ§Ãµes no cache protegido do Windows por atÃ© 8 horas, mantendo a busca individual. As consultas ao PEC permanecem somente leitura.",
   "signature": "nSrw54l8GNENnY8t4wlo17RmdCagof+ZVofGU9nPzMaTqXRPv2G6IuVguQFFg/cnT4OjJ0WVDa9MEZh+r6NqBw=="
 }
